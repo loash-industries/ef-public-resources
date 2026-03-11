@@ -10,7 +10,7 @@ A simple list of public resources w/ description of what it is. Please PR anythi
 | [frontier.scetrov.live](https://frontier.scetrov.live/develop/world-contracts/)    | Player-curated developer documentation for 3rd party development ecosystem in SUI Move |
 
 
-## World Contract Resources
+## Deployed World Contract Resources
 ### Utopia
 
 | Object                  | Address                                                            |
